@@ -7,7 +7,7 @@ apt-get install unbound
 apt-get install unzip
 
 cd /etc/unbound/unbound.conf.d
-wget https://github.com/leoneDuarte/unbound_dns/archive/master.zip
+wget https://github.com/elisilvadev/dns/blob/master/unbound_dns-master.zip
 unzip master.zip
 rm master.zip
 cd unbound_dns-master
